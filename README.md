@@ -16,7 +16,7 @@
 
 - Python 3.x
 - ADB (Android Debug Bridge)
-- TesseractOCR
+- [TesseractOCR](https://github.com/tesseract-ocr/tesseract)
 - Android Emulator (เช่น LDPlayer, BlueStacks)
 
 ## Installation
