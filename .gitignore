@@ -1,0 +1,39 @@
+# Virtual Environment
+.venv/
+
+# Logs
+log.txt
+*.log
+
+# Scripts & Task files
+run.bat
+task.md
+
+# TesseractOCR binary folder
+TesseractOCR/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Input/Output folders (runtime data)
+input/
+output/
+image/
+imagev2/
+
+# Config with sensitive data (optional: uncomment if config contains secrets)
+# config.ini
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
